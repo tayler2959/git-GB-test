@@ -1,7 +1,7 @@
-Test
+Test;
 
-Change file 
+Change file ;
 
-Change file in GitHub (Web)
+Change file in GitHub (Web);
 
-новая строка для проверки веток
+новая строка для проверки веток;
