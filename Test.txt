@@ -1,10 +1,10 @@
-Test
+Test;
 
-Change file 
+Change file ;
 
-Change file in GitHub (Web)
+Change file in GitHub (Web);
 
-нова€ строка дл€ проверки веток
+нова€ строка дл€ проверки веток;
 
 
 нова€ ветка дл€ проверки конфликтов
